@@ -1,0 +1,22 @@
+/* TodoList.css */
+
+#buttonAdd {
+    width: auto;
+    
+}
+
+#buttonDelete {
+    margin-left: 5px;
+    width: 20%;
+}
+
+.form {
+    margin-bottom: 15px !important;
+}
+
+#TodoList-container {
+    width: 700px !important;
+    background-color: #610a6dfe;
+    
+}
+
