@@ -4,8 +4,8 @@
 
 This project is a full-stack TODO List application that utilizes Redis as a data store. The project is divided into two main parts:
 
-1. **Backend** (`todo-app`): A Node.js and Express.js server that handles API requests for managing TODO items, using Redis for data storage.
-2. **Frontend** (`todo-app-frontend`): A React.js application that provides a user interface for interacting with the TODO list.
+1. **Backend** (`backend`): A Node.js and Express.js server that handles API requests for managing TODO items, using Redis for data storage.
+2. **Frontend** (`frontend`): A React.js application that provides a user interface for interacting with the TODO list.
 
 The application supports adding, updating, deleting, and viewing tasks, with real-time synchronization between the frontend and the Redis-based backend.
 
@@ -32,12 +32,8 @@ redis-todo-project/
 
 
 ## Prerequisites
-
-**Node.js**
-Ensure that Node.js is installed on your system.
-
-**Docker**
-This project uses Docker to run a Redis container.
+- **Node.js**: Ensure that Node.js is installed on your system.
+- **Docker**: This project uses Docker to run a Redis container.
 
 ## Running Redis with Docker
 To run Redis using Docker, use the following command:
