@@ -29,10 +29,6 @@ redis-todo-project/
 │   ├── package.json        # Frontend dependencies and scripts
 │   └── vite.config.js      # Vite configuration for frontend build
 ```
-
-
-
-
 ## Prerequisites
 - **Node.js**: Ensure that Node.js is installed on your system.
 - **Docker**: This project uses Docker to run a Redis container.
