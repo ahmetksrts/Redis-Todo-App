@@ -10,7 +10,7 @@ This project is a full-stack TODO List application that utilizes Redis as a data
 The application supports adding, updating, deleting, and viewing tasks, with real-time synchronization between the frontend and the Redis-based backend.
 
 ## Project Structure
-
+```
 redis-todo-project/
 ├── README.md               # Project documentation
 ├── LICENSE                 # Project license (MIT)
@@ -28,7 +28,7 @@ redis-todo-project/
 │   ├── package-lock.json   # Dependency tree lock file
 │   ├── package.json        # Frontend dependencies and scripts
 │   └── vite.config.js      # Vite configuration for frontend build
-
+```
 
 
 ## Prerequisites
