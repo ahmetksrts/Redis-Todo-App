@@ -43,11 +43,11 @@ docker run --name redis-container -d -p 6379:6379 redis
 This will pull the Redis image from Docker Hub (if not already present) and start a Redis container named redis-container.
 
 ## Usage
-**Add Task**: Use the input field to add a new task.
-**View Tasks**: The tasks are displayed in real-time from the Redis data store.
-**Edit Task**: Click on a task to edit its content.
-**Delete Task**: Click the trash icon next to a task to delete it.
-**Mark as Completed**: Click on the checkmark icon to mark a task as completed.
+- **Add Task**: Use the input field to add a new task.
+- **View Tasks**: The tasks are displayed in real-time from the Redis data store.
+- **Edit Task**: Click on a task to edit its content.
+- **Delete Task**: Click the trash icon next to a task to delete it.
+- **Mark as Completed**: Click on the checkmark icon to mark a task as completed.
 
 
 ## License
